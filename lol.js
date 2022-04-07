@@ -1,3 +1,4 @@
+"use strict";
 let model = {
 	boardSize: 7,
 	numShips: 3,
